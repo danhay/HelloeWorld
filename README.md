@@ -1,4 +1,3 @@
 Hello World
 ===========
-
-Sample repository
+Edits in a branch
