@@ -1,4 +1,4 @@
-HelloeWorld
+Hello World
 ===========
 
 Sample repository
